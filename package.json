@@ -19,7 +19,7 @@
   "dependencies": {
     "es6-promise": "^4.2.8",
     "isomorphic-fetch": "^2.2.1",
-    "jsdom": "^16.2.2",
+    "jsdom": "^16.5.0",
     "mysql": "^2.18.1"
   }
 }
